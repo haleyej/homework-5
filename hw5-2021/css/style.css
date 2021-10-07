@@ -119,7 +119,6 @@ header{
   /* YOUR CODE HERE; */
   background-image: url(../images/header.jpg);
   grid-column: 1 / -1; 
-  background-size: fill;
 }
 
 .about-image{
@@ -160,7 +159,6 @@ header{
   grid-row: 4 / 5;
   grid-column: 1 / -1;
   max-height: 700px; 
-  width: 100%; 
   overflow: hidden;
 }
 
@@ -183,7 +181,6 @@ header{
   padding: 30px;
 
   /* Your code here */
-  /* align-content: center */
   margin: auto;
 
 }
